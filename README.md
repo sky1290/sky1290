@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sky1290/sky1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developing Language
+- ![Language](https://img.shields.io/badge/language-html-brightgreen)
+- ![Language](https://img.shields.io/badge/language-css-brightgreen)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Github Status
+
+[![sky1290's github stats](https://github-readme-stats.vercel.app/api?username=sky1290&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/sky1290/github-readme-stats)
+
+### Top Langs
+
+[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=sky1290&langs_count=20&layout=compact)](https://github.com/sky1290/github-readme-stats)
